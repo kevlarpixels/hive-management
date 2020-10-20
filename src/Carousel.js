@@ -5,7 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default () => (
     <Carousel autoPlay>
         <div>
-            <img src={require('./photos/_DSC4797.jpg')} />
+            <img src={require('https://kevlarpixels.github.io/hive-management/photos/_DSC4797.jpg')} />
             <p>Legend 1</p>
         </div>
 
