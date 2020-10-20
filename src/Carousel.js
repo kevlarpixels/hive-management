@@ -5,27 +5,27 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default () => (
     <Carousel autoPlay>
         <div>
-            <img src={require('./photos/_DSC4797.JPG')} />
+            <img src={require('./photos/_DSC4797.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img src={require('./photos/_DSC4798.JPG')} />
+            <img src={require('./photos/_DSC4798.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img src={require('./photos/_DSC4799.JPG')} />
+            <img src={require('./photos/_DSC4799.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img src={require('./photos/_DSC4801.JPG')} />
+            <img src={require('./photos/_DSC4801.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img src={require('./photos/_DSC4802.JPG')} />
+            <img src={require('./photos/_DSC4802.jpg')} />
             <p>Legend 1</p>
         </div>
 
