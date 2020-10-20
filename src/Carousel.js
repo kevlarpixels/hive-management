@@ -25,7 +25,7 @@ export default () => (
         </div>
 
         <div>
-            <img src={require('./photos/_DSC4802.jpg')} />
+            <img src={require('./photos/_DSC4802.JPG')} />
             <p>Legend 1</p>
         </div>
 
