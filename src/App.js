@@ -10,7 +10,7 @@ class App extends Component {
         <Router>
           <Switch>
             <Route exact path="/hive-management" component={Home} />
-            <Route path="/application" component={Application} />
+            <Route path="/hive-management/application" component={Application} />
           </Switch>
         </Router>
       </React.Fragment>
