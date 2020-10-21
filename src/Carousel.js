@@ -20,184 +20,184 @@ export default () => (
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4801.jpg')} />
+            <img alt="img" src={require('./photos/DSC4801.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4802.jpg')} />
+            <img alt="img" src={require('./photos/DSC4802.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4803.jpg')} />
+            <img alt="img" src={require('./photos/DSC4803.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4804.jpg')} />
+            <img alt="img" src={require('./photos/DSC4804.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4805.jpg')} />
+            <img alt="img" src={require('./photos/DSC4805.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4806.jpg')} />
+            <img alt="img" src={require('./photos/DSC4806.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4807.jpg')} />
+            <img alt="img" src={require('./photos/DSC4807.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4808.jpg')} />
+            <img alt="img" src={require('./photos/DSC4808.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4809.jpg')} />
+            <img alt="img" src={require('./photos/DSC4809.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4810.jpg')} />
+            <img alt="img" src={require('./photos/DSC4810.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4811.jpg')} />
+            <img alt="img" src={require('./photos/DSC4811.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4812.jpg')} />
+            <img alt="img" src={require('./photos/DSC4812.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4813.jpg')} />
+            <img alt="img" src={require('./photos/DSC4813.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4814.jpg')} />
+            <img alt="img" src={require('./photos/DSC4814.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4815.jpg')} />
+            <img alt="img" src={require('./photos/DSC4815.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4816.jpg')} />
+            <img alt="img" src={require('./photos/DSC4816.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4817.jpg')} />
+            <img alt="img" src={require('./photos/DSC4817.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4818.jpg')} />
+            <img alt="img" src={require('./photos/DSC4818.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4819.jpg')} />
+            <img alt="img" src={require('./photos/DSC4819.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4820.jpg')} />
+            <img alt="img" src={require('./photos/DSC4820.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4821.jpg')} />
+            <img alt="img" src={require('./photos/DSC4821.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4822.jpg')} />
+            <img alt="img" src={require('./photos/DSC4822.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4823.jpg')} />
+            <img alt="img" src={require('./photos/DSC4823.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4824.jpg')} />
+            <img alt="img" src={require('./photos/DSC4824.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4825.jpg')} />
+            <img alt="img" src={require('./photos/DSC4825.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4826.jpg')} />
+            <img alt="img" src={require('./photos/DSC4826.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4827.jpg')} />
+            <img alt="img" src={require('./photos/DSC4827.jpg')} />
             <p>Legend 1</p>
         </div>
 
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4828.jpg')} />
+            <img alt="img" src={require('./photos/DSC4828.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4829.jpg')} />
+            <img alt="img" src={require('./photos/DSC4829.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4830.jpg')} />
+            <img alt="img" src={require('./photos/DSC4830.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4831.jpg')} />
+            <img alt="img" src={require('./photos/DSC4831.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4832.jpg')} />
+            <img alt="img" src={require('./photos/DSC4832.jpg')} />
             <p>Legend 1alt="img" </p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4833.jpg')} />
+            <img alt="img" src={require('./photos/DSC4833.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4837.jpg')} />
+            <img alt="img" src={require('./photos/DSC4837.jpg')} />
             <p>Legend 1</p>
         </div>
 
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4838.jpg')} />
+            <img alt="img" src={require('./photos/DSC4838.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4839.jpg')} />
+            <img alt="img" src={require('./photos/DSC4839.jpg')} />
             <p>Legend 1</p>
         </div>
 
