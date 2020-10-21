@@ -171,17 +171,17 @@ export default () => (
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4831.JPG')} />
+            <img alt="img" src={require('./photos/_DSC4831.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4832.JPG')} />
+            <img alt="img" src={require('./photos/_DSC4832.jpg')} />
             <p>Legend 1alt="img" </p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/_DSC4833.JPG')} />
+            <img alt="img" src={require('./photos/_DSC4833.jpg')} />
             <p>Legend 1</p>
         </div>
 
