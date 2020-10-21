@@ -4,10 +4,26 @@ import Carousel from "./Carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 export const Home = () => (
+
+
+
     <div>
-    
+
+
         <div className='carousel'>
             <Carousel />
+        </div>
+        <div className="buttonDiv">
+            <p>
+                Fill out form by clicking on the "Application" button. Be aware the California rental application form allows landlords
+                to obtain background information about prospective tenants. A charge of $38 fee for the application will include
+                criminal, credit, or rental history. Payment for the application can be made via Venmo: www.venmo.com/Kevin_Aguilar
+                .
+            </p>
+            <a className="myButton" href="https://forms.gle/EV9LD5XLicG9HDXw5">Application</a>
+        </div>
+        <div>
+            <form typeof="button"></form>
         </div>
         <div className="container">
             <div>
@@ -85,3 +101,4 @@ export const Home = () => (
         </div>
     </div>
 );
+
