@@ -5,204 +5,149 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default () => (
     <Carousel autoPlay>
         <div>
-            <img alt="img" src={require('./photos/DSC4797.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5491.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4798.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5492.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4799.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5493.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4801.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5494.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4802.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5495.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4803.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5496.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4804.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5497.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4805.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5498.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4806.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5499.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4807.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5505.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4808.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5506.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4809.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5507.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4810.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5508.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4811.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5509.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4812.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5510.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4813.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5511.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4814.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5512.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4815.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5513.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4816.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5517.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4817.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5537.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4818.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5538.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4819.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5541.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4820.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5542.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4821.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5543.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4822.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5544.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4823.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5546.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4824.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5551.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4825.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5553.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/DSC4826.jpg')} />
+            <img alt="img" src={require('./photos/1055/_DSC5555.jpg')} />
             <p>Legend 1</p>
         </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4827.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4828.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4829.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4830.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4831.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4832.jpg')} />
-            <p>Legend 1alt="img" </p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4833.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4837.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4838.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/DSC4839.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-
-
     </Carousel>
 );
 
