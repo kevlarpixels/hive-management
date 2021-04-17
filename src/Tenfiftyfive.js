@@ -69,10 +69,10 @@ export const Tenfiftyfive = () => (
                             <td>1.6 mi</td>
                         </tr>  
                     </table>
+                </div>
                 <div className="neighborhood">
                     <h1>Neighborhood</h1>
                     <p>Boyle Heights</p>
-                </div>
                 </div>
             </div>
         </div>
