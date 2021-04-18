@@ -29,12 +29,14 @@ export const Tenfiftyfive = () => (
         <div className="container">
             <div>
                 <h1>1055 Dundas Street</h1>
-                <h2>3 bedroom 2 bath for $2,750</h2>
-                <p>Detached 2 Car Garage</p>
-                <p>Backyard with porch</p>
-                <p>Central Air and Heat</p>
-                <p>Washer and Dryer</p>
-                <p>Pet Friendly</p>
+                <h2>3 bedroom 2 1/2 bath for $2,500</h2>
+                <p>Recently remodeled</p>
+                <p>Hardwood Floor</p>
+                <p>New Kitchen Canites</p>
+                <p>Washer and Dryer attachements</p>
+                <p>Master Bedroom</p>
+                <p>Porch</p>
+                <p>Chimney</p>
             </div>
             <div>
                 <h1>Property Details</h1>
@@ -43,6 +45,7 @@ export const Tenfiftyfive = () => (
                 <p>Remodel 2021</p>
                 <p>Wood Roof Structure with Shingles</p>
                 <p>Stucco Exterior</p>
+                <p>Near Downtown L.A. and USC Medical Center</p>
             </div>
             <div className="environment">
                 <div className="schools">

@@ -30,10 +30,10 @@ export const Tenfiftyfivehalf = () => (
             <div>
                 <h1>1055 1/2 Dundas Street</h1>
                 <h2>2 bedroom 1 bath for $1,550</h2>
-                <p>Detached 2 Car Garage</p>
-                <p>Backyard with porch</p>
-                <p>Central Air and Heat</p>
-                <p>Washer and Dryer</p>
+                <p>New Construction</p>
+                <p>Hardwood Floors</p>
+                <p>Walk-in Closet</p>
+                <p>Washer and Dryer attachements</p>
                 <p>Pet Friendly</p>
             </div>
             <div>
@@ -42,6 +42,7 @@ export const Tenfiftyfivehalf = () => (
                 <p>Built 2021</p>
                 <p>Wood Roof Structure with Shingles</p>
                 <p>Stucco Exterior</p>
+                <p>Near Downtown L.A. and USC Medical Center</p>
             </div>
             <div className="environment">
                 <div className="schools">
@@ -66,7 +67,7 @@ export const Tenfiftyfivehalf = () => (
                             <td>Hilda L. Solis Learning Academy School Of Technology, Business And Education</td>
                             <td>9-12</td>
                             <td>1.6 mi</td>
-                        </tr>  
+                        </tr>
                     </table>
                 </div>
                 <div className="neighborhood">

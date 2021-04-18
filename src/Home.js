@@ -18,7 +18,7 @@ export const Home = () => (
         <div className="container">
             <div>
                 <h1>1055 Dundas Street</h1>
-                <h2>3 bedrooms 2 baths</h2>
+                <h2>3 bedrooms 2 1/2 baths</h2>
                 <h2>$2,500</h2>
             </div>
             <div>
@@ -29,7 +29,7 @@ export const Home = () => (
             <div className="container">
                 <div>
                     <h1>1055 1/2 Dundas Street</h1>
-                    <h2>2 bedrooms 1 bath</h2>
+                    <h2>1 bedrooms 1 bath</h2>
                     <h2>$1,500</h2>
                 </div>
                 <div>
