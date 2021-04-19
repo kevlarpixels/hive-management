@@ -1,37 +1,37 @@
 {
   "files": {
     "main.css": "/hive-management/static/css/main.c096c49c.chunk.css",
-    "main.js": "/hive-management/static/js/main.2309485c.chunk.js",
-    "main.js.map": "/hive-management/static/js/main.2309485c.chunk.js.map",
+    "main.js": "/hive-management/static/js/main.6ae78db7.chunk.js",
+    "main.js.map": "/hive-management/static/js/main.6ae78db7.chunk.js.map",
     "runtime-main.js": "/hive-management/static/js/runtime-main.dc89c741.js",
     "runtime-main.js.map": "/hive-management/static/js/runtime-main.dc89c741.js.map",
     "static/css/2.fe62fa80.chunk.css": "/hive-management/static/css/2.fe62fa80.chunk.css",
-    "static/js/2.2caa6d19.chunk.js": "/hive-management/static/js/2.2caa6d19.chunk.js",
-    "static/js/2.2caa6d19.chunk.js.map": "/hive-management/static/js/2.2caa6d19.chunk.js.map",
+    "static/js/2.a718db6b.chunk.js": "/hive-management/static/js/2.a718db6b.chunk.js",
+    "static/js/2.a718db6b.chunk.js.map": "/hive-management/static/js/2.a718db6b.chunk.js.map",
     "index.html": "/hive-management/index.html",
-    "precache-manifest.cbb2c0bcfd561ebfafbad72062faccf2.js": "/hive-management/precache-manifest.cbb2c0bcfd561ebfafbad72062faccf2.js",
+    "precache-manifest.b5439d4541a78fb812cff7e677ddacc9.js": "/hive-management/precache-manifest.b5439d4541a78fb812cff7e677ddacc9.js",
     "service-worker.js": "/hive-management/service-worker.js",
     "static/css/2.fe62fa80.chunk.css.map": "/hive-management/static/css/2.fe62fa80.chunk.css.map",
     "static/css/main.c096c49c.chunk.css.map": "/hive-management/static/css/main.c096c49c.chunk.css.map",
-    "static/js/2.2caa6d19.chunk.js.LICENSE.txt": "/hive-management/static/js/2.2caa6d19.chunk.js.LICENSE.txt",
+    "static/js/2.a718db6b.chunk.js.LICENSE.txt": "/hive-management/static/js/2.a718db6b.chunk.js.LICENSE.txt",
     "static/media/Dundas1.jpg": "/hive-management/static/media/Dundas1.b93487f2.jpg",
     "static/media/Dundas10.jpg": "/hive-management/static/media/Dundas10.b659d7ab.jpg",
     "static/media/Dundas11.jpg": "/hive-management/static/media/Dundas11.e958c0fa.jpg",
     "static/media/Dundas12.jpg": "/hive-management/static/media/Dundas12.1fe23ef0.jpg",
     "static/media/Dundas2.jpg": "/hive-management/static/media/Dundas2.a32dc91b.jpg",
     "static/media/Dundas3.jpg": "/hive-management/static/media/Dundas3.e43ad048.jpg",
-    "static/media/Dundas4.jpg": "/hive-management/static/media/Dundas4.457f3802.jpg",
+    "static/media/Dundas4.jpg": "/hive-management/static/media/Dundas4.8c3979bc.jpg",
     "static/media/Dundas5.jpg": "/hive-management/static/media/Dundas5.a3600b49.jpg",
     "static/media/Dundas6.jpg": "/hive-management/static/media/Dundas6.e2d45e87.jpg",
     "static/media/Dundas7.jpg": "/hive-management/static/media/Dundas7.f52f6950.jpg",
-    "static/media/Dundas8.jpg": "/hive-management/static/media/Dundas8.29588d00.jpg",
+    "static/media/Dundas8.jpg": "/hive-management/static/media/Dundas8.9b9eb90d.jpg",
     "static/media/Dundas9.jpg": "/hive-management/static/media/Dundas9.567ff197.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dc89c741.js",
     "static/css/2.fe62fa80.chunk.css",
-    "static/js/2.2caa6d19.chunk.js",
+    "static/js/2.a718db6b.chunk.js",
     "static/css/main.c096c49c.chunk.css",
-    "static/js/main.2309485c.chunk.js"
+    "static/js/main.6ae78db7.chunk.js"
   ]
 }
