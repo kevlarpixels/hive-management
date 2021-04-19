@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hive-management/static/css/main.c096c49c.chunk.css",
-    "main.js": "/hive-management/static/js/main.1d27d268.chunk.js",
-    "main.js.map": "/hive-management/static/js/main.1d27d268.chunk.js.map",
+    "main.js": "/hive-management/static/js/main.2309485c.chunk.js",
+    "main.js.map": "/hive-management/static/js/main.2309485c.chunk.js.map",
     "runtime-main.js": "/hive-management/static/js/runtime-main.dc89c741.js",
     "runtime-main.js.map": "/hive-management/static/js/runtime-main.dc89c741.js.map",
     "static/css/2.fe62fa80.chunk.css": "/hive-management/static/css/2.fe62fa80.chunk.css",
     "static/js/2.2caa6d19.chunk.js": "/hive-management/static/js/2.2caa6d19.chunk.js",
     "static/js/2.2caa6d19.chunk.js.map": "/hive-management/static/js/2.2caa6d19.chunk.js.map",
     "index.html": "/hive-management/index.html",
-    "precache-manifest.3ebd48d6cc5dde0e6de56df2e9667e76.js": "/hive-management/precache-manifest.3ebd48d6cc5dde0e6de56df2e9667e76.js",
+    "precache-manifest.cbb2c0bcfd561ebfafbad72062faccf2.js": "/hive-management/precache-manifest.cbb2c0bcfd561ebfafbad72062faccf2.js",
     "service-worker.js": "/hive-management/service-worker.js",
     "static/css/2.fe62fa80.chunk.css.map": "/hive-management/static/css/2.fe62fa80.chunk.css.map",
     "static/css/main.c096c49c.chunk.css.map": "/hive-management/static/css/main.c096c49c.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.fe62fa80.chunk.css",
     "static/js/2.2caa6d19.chunk.js",
     "static/css/main.c096c49c.chunk.css",
-    "static/js/main.1d27d268.chunk.js"
+    "static/js/main.2309485c.chunk.js"
   ]
 }
