@@ -4,83 +4,48 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 export default () => (
     <Carousel autoPlay>
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5473.jpg')} />
+         <div>
+            <img alt="img" src={require('./photos/1055/Dundas1.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5474.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas2.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5475.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas3.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5476.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas4.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5477.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas5.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5478.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas6.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5480.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas7.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5481.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas8.jpg')} />
             <p>Legend 1</p>
         </div>
 
         <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5482.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5483.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5484.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5485.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5486.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5488.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5489.jpg')} />
-            <p>Legend 1</p>
-        </div>
-
-        <div>
-            <img alt="img" src={require('./photos/1055half/_DSC5490.jpg')} />
+            <img alt="img" src={require('./photos/1055/Dundas9.jpg')} />
             <p>Legend 1</p>
         </div>
     </Carousel>
