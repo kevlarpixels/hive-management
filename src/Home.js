@@ -19,7 +19,7 @@ export const Home = () => (
             <div>
                 <h1>1055 Dundas Street</h1>
                 <h2>3 bedrooms 2 1/2 baths</h2>
-                <h2>$2,500</h2>
+                <h2>$2,750</h2>
             </div>
             <div>
                 <Link to="/hive-management/1055dundas"

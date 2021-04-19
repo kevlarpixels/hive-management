@@ -33,8 +33,7 @@ export const Tenfiftyfivehalf = () => (
                 <p>New Construction</p>
                 <p>Hardwood Floors</p>
                 <p>Walk-in Closet</p>
-                <p>Washer and Dryer attachements</p>
-                <p>Pet Friendly</p>
+                <p>Washer and Dryer attachments</p>
             </div>
             <div>
                 <h1>Property Details</h1>

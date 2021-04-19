@@ -6,62 +6,62 @@ export default () => (
     <Carousel autoPlay>
         <div>
             <img alt="img" src={require('./photos/1055/Dundas1.jpg')} />
-            <p>Legend 1</p>
+            <p>Front House</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas2.jpg')} />
-            <p>Legend 1</p>
+            <p>Living Room</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas3.jpg')} />
-            <p>Legend 1</p>
+            <p>Dinning Room</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas4.jpg')} />
-            <p>Legend 1</p>
+            <p>Open Space</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas5.jpg')} />
-            <p>Legend 1</p>
+            <p>Kitchen</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas6.jpg')} />
-            <p>Legend 1</p>
+            <p>Cabinets and Stove</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas7.jpg')} />
-            <p>Legend 1</p>
+            <p>Bedroom</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas8.jpg')} />
-            <p>Legend 1</p>
+            <p>Bath</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas9.jpg')} />
-            <p>Legend 1</p>
+            <p>Bathroom</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas10.jpg')} />
-            <p>Legend 1</p>
+            <p>Rear Bedroom</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas11.jpg')} />
-            <p>Legend 1</p>
+            <p>Bathroom Shower</p>
         </div>
 
         <div>
             <img alt="img" src={require('./photos/1055/Dundas12.jpg')} />
-            <p>Legend 1</p>
+            <p>Bathroom</p>
         </div>
     </Carousel>
 );
