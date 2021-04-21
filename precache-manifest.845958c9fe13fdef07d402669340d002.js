@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35488e125090bfabc54a9456b6c00d70",
+    "revision": "54c63ddee2bbc9ee710de4ba396623cb",
     "url": "/hive-management/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hive-management/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "a842cb73362b51bccddc",
+    "revision": "1b77c491e280ed08b43f",
     "url": "/hive-management/static/css/main.5013196a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hive-management/static/js/2.a718db6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a842cb73362b51bccddc",
-    "url": "/hive-management/static/js/main.bc95acc7.chunk.js"
+    "revision": "1b77c491e280ed08b43f",
+    "url": "/hive-management/static/js/main.1a22aaea.chunk.js"
   },
   {
     "revision": "c1c3f5750d06c8316413",
