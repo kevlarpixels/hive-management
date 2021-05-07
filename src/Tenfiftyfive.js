@@ -19,7 +19,16 @@ export const Tenfiftyfive = () => (
                 Fill out the form by clicking on the "Application" button. Be aware the California rental application form allows landlords
                 to obtain background information about prospective tenants. A charge of $40 fee for the application will include
                 criminal, credit, or rental history. Payment for the application will be made when you receive a link from the property manager.
+                Once you fill out the initial application, the property manager will contact you for any questions you may have. 
         
+            </p>
+            
+            <p>
+            Complete el formulario haciendo clic en el botón "Application". Tenga en cuenta que el formulario de solicitud de alquiler de California permite
+             a los propietarios obtener información de antecedentes sobre posibles inquilinos. Un cargo de $ 40 por la solicitud incluirá antecedentes penales, 
+             crediticios o de alquiler. El pago de la solicitud se realizará cuando reciba un enlace del administrador de la propiedad.
+                Una vez que complete la solicitud inicial, el administrador de la propiedad se comunicará con usted para cualquier pregunta 
+                que pueda tener.
             </p>
             <a className="myButton" href="https://forms.gle/EV9LD5XLicG9HDXw5">Application</a>
         </div>

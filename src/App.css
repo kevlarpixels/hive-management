@@ -1,0 +1,76 @@
+.center {
+    margin-left: auto;
+    margin-right:auto;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 24px;
+  }
+  
+  .carousel {
+    width: auto;
+  }
+  
+  .photo {
+    max-width: 100%;
+    object-fit: cover;
+  }
+  
+  .buttonDiv {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   text-align: center;
+  }
+  
+  .myButton {
+  background-color:#44c767;
+  border-radius:28px;
+  border:1px solid #18ab29;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:21px;
+  padding:16px 52px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+  }
+  .myButton:hover {
+  background-color:#5cbf2a;
+  }
+  .myButton:active {
+  position:relative;
+  top:1px;
+  }
+  
+  th {
+    padding-right: 10px;
+  }
+  
+  .environment {
+    max-width: 1128px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .schools {
+    float: left;;
+  }
+  
+  .neighborhood {
+    max-width: 100%;
+    text-align: center;
+    margin-right: auto;
+  }
