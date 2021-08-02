@@ -29,7 +29,7 @@ export const Tenfiftyfive = () => (
         <div className="container">
             <div>
                 <h1>1055 Dundas Street</h1>
-                <h2>3 bedroom 2 1/2 bath for $2,750</h2>
+                <h2>3 bedroom 2 1/2 bath for $2,6000</h2>
                 <p>Recently remodeled</p>
                 <p>Hardwood Floor</p>
                 <p>New Kitchen Canites</p>
