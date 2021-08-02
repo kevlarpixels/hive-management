@@ -16,21 +16,12 @@ export const Tenfiftyfive = () => (
         </div>
         <div className="buttonDiv">
             <p>
-                Fill out the form by clicking on the "Application" button. Be aware the California rental application form allows landlords
-                to obtain background information about prospective tenants. A charge of $40 fee for the application will include
-                criminal, credit, or rental history. Payment for the application will be made when you receive a link from the property manager.
-                Once you fill out the initial application, the property manager will contact you for any questions you may have. 
-        
-            </p>
-            
+                Fill out the initial form by clicking on the "Form" button. This form is a questionnaire to provide information to the Property Manager. Once the initial form is complete, the Property Manager will contact the applicant for any questions.</p>
+
             <p>
-            Complete el formulario haciendo clic en el botón "Application". Tenga en cuenta que el formulario de solicitud de alquiler de California permite
-             a los propietarios obtener información de antecedentes sobre posibles inquilinos. Un cargo de $ 40 por la solicitud incluirá antecedentes penales, 
-             crediticios o de alquiler. El pago de la solicitud se realizará cuando reciba un enlace del administrador de la propiedad.
-                Una vez que complete la solicitud inicial, el administrador de la propiedad se comunicará con usted para cualquier pregunta 
-                que pueda tener.
+                Complete el formulario inicial haciendo clic en el botón "Form". Este formulario es un cuestionario para proporcionar información al Administrador de la propiedad. Una vez que se complete el formulario inicial, el Administrador de la propiedad se comunicará con el solicitante para cualquier pregunta.
             </p>
-            <a className="myButton" href="https://forms.gle/EV9LD5XLicG9HDXw5">Application</a>
+            <a className="myButton" href="https://forms.gle/EV9LD5XLicG9HDXw5">Form</a>
         </div>
         <div>
             <form typeof="button"></form>
@@ -79,7 +70,7 @@ export const Tenfiftyfive = () => (
                             <td>Hilda L. Solis Learning Academy School Of Technology, Business And Education</td>
                             <td>9-12</td>
                             <td>1.6 mi</td>
-                        </tr>  
+                        </tr>
                     </table>
                 </div>
                 <div className="neighborhood">
